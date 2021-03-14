@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">EmojiApp</string>
+    <string name="emoji_status">emoji_status</string>
 </resources>
